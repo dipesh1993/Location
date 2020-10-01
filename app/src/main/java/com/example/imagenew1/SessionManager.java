@@ -21,7 +21,7 @@ public class SessionManager {
 
     public SessionManager(Context context) {
         this.context = context;
-        sharedPreferences = context.getSharedPreferences(PREF_NAME, PRIVATE_MODE);
+        sharedPreferences = context.getSharedPImageNew1references(PREF_NAME, PRIVATE_MODE);
         editor = sharedPreferences.edit();
     }
 
