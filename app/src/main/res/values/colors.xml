@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAmber_A400">#D0FFC400</color>
+    <color name="colorAmber_900">#F8FF9900</color>
+    <color name="white">#FFF</color>
+    <color name="blue_grey">#607d8b</color>
+    <color name="emphasis">#0B0C0C</color>
+    <color name="colorAmber">#FFC107</color>
+
+</resources>
